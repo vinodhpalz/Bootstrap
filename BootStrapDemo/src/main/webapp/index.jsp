@@ -158,7 +158,19 @@
 	<br><br>
 	
 	
-	
+	<div class="container">
+<div class="row">
+<div class="col">
+First Column
+</div>
+<div class="col">
+Second Column
+</div>
+<div class="col">
+Third Column
+</div>
+</div>
+</div>
 	
 	
 	
